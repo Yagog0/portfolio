@@ -200,12 +200,15 @@
             border-radius: 50%;
             background: linear-gradient(135deg, #1e293b, #334155);
             box-shadow: 0 0 60px rgba(56, 189, 248, 0.25);
+            overflow: hidden;
         }
 
-        .avatar span {
-            color: #38bdf8;
-            font-size: 4rem;
-            font-weight: bold;
+        .avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center top;
+            display: block;
         }
 
         .detalhe {
@@ -601,8 +604,8 @@
                 height: 210px;
             }
 
-            .avatar span {
-                font-size: 3rem;
+            .avatar img {
+                object-position: center top;
             }
 
             .inicio-imagem {
@@ -657,7 +660,7 @@
                 </div>
 
                 <div class="inicio-imagem">
-                    <div class="avatar"><span>Yg</span></div>
+                    <div class="avatar"><img src="imagens/145058720.jpeg" alt="Foto de perfil de Yago"></div>
                     <div class="detalhe detalhe-um"></div>
                     <div class="detalhe detalhe-dois"></div>
                 </div>
