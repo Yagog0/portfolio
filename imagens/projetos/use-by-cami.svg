@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+<rect width="320" height="320" fill="#eedadd"/>
+<text x="20" y="29" font-family="Consolas,monospace" font-size="8" letter-spacing="1" fill="#6b3547">UMA COLEÇÃO DE POSSIBILIDADES / 08</text>
+<text x="18" y="100" font-family="Arial,sans-serif" font-size="56" font-weight="900" letter-spacing="-3" fill="#6b3547">USE BY</text><text x="18" y="176" font-family="Arial,sans-serif" font-size="83" font-weight="900" letter-spacing="-3" fill="#6b3547">CAMI.</text>
+<g fill="none" stroke="#6b3547" stroke-width="2"><path d="M215 204v-12a14 14 0 0 1 28 0v12m-48 0h68l9 63h-86Z"/><path d="M210 227h35m-27 10h19"/></g><path d="M24 260h126" stroke="#6b3547" stroke-width="1"/><text x="24" y="244" font-family="Georgia,serif" font-style="italic" font-size="18" fill="#6b3547">feito para vestir.</text>
+<path d="M20 288h280" stroke="#6b3547" stroke-opacity=".5"/>
+<text x="20" y="305" font-family="Consolas,monospace" font-size="8" letter-spacing="1" fill="#6b3547">PHP / JAVASCRIPT / SQL</text>
+</svg>

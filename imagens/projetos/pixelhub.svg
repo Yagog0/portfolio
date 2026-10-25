@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+<rect width="320" height="320" fill="#322949"/>
+<text x="20" y="29" font-family="Consolas,monospace" font-size="8" letter-spacing="1" fill="#d7cdec">JOGOS, CONEXÕES E DESCOBERTAS / 07</text>
+<text x="18" y="100" font-family="Arial,sans-serif" font-size="76" font-weight="900" letter-spacing="-3" fill="#d7cdec">PIXEL</text><text x="18" y="176" font-family="Arial,sans-serif" font-size="87" font-weight="900" letter-spacing="-3" fill="#d7cdec">HUB.</text>
+<g fill="none" stroke="#d7cdec" stroke-width="3"><rect x="197" y="187" width="94" height="70" rx="14"/><path d="M215 222h25m-12-12v25"/></g><g fill="#d7cdec"><rect x="258" y="211" width="7" height="7"/><rect x="271" y="226" width="7" height="7"/><rect x="23" y="240" width="9" height="9"/><rect x="38" y="226" width="9" height="9"/><rect x="53" y="240" width="9" height="9"/></g>
+<path d="M20 288h280" stroke="#d7cdec" stroke-opacity=".5"/>
+<text x="20" y="305" font-family="Consolas,monospace" font-size="8" letter-spacing="1" fill="#d7cdec">PHP / SQLITE / JAVASCRIPT</text>
+</svg>

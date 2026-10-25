@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+<rect width="320" height="320" fill="#173e47"/>
+<text x="20" y="29" font-family="Consolas,monospace" font-size="8" letter-spacing="1" fill="#c6e0dc">DA PRIMEIRA TAG À CONEXÃO / 10</text>
+<text x="18" y="100" font-family="Arial,sans-serif" font-size="68" font-weight="900" letter-spacing="-3" fill="#c6e0dc">HELLO,</text><text x="18" y="176" font-family="Arial,sans-serif" font-size="88" font-weight="900" letter-spacing="-3" fill="#c6e0dc">WEB.</text>
+<g fill="none" stroke="#c6e0dc" stroke-width="2"><rect x="27" y="192" width="266" height="79"/><path d="M27 210h266m-223 16-15 14 15 14m180-28 15 14-15 14m-82-32-14 36"/></g><g fill="#c6e0dc"><circle cx="38" cy="201" r="2"/><circle cx="47" cy="201" r="2"/><circle cx="56" cy="201" r="2"/></g>
+<path d="M20 288h280" stroke="#c6e0dc" stroke-opacity=".5"/>
+<text x="20" y="305" font-family="Consolas,monospace" font-size="8" letter-spacing="1" fill="#c6e0dc">HTML / CSS / JS / NODE.JS</text>
+</svg>

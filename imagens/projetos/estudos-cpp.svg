@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+<rect width="320" height="320" fill="#253b35"/>
+<text x="20" y="29" font-family="Consolas,monospace" font-size="8" letter-spacing="1" fill="#d1e3cd">TODO CÓDIGO TEM UM COMEÇO / 11</text>
+<text x="18" y="100" font-family="Arial,sans-serif" font-size="68" font-weight="900" letter-spacing="-3" fill="#d1e3cd">HELLO,</text><text x="18" y="176" font-family="Arial,sans-serif" font-size="97" font-weight="900" letter-spacing="-3" fill="#d1e3cd">C++.</text>
+<g font-family="Consolas,monospace" font-size="13" fill="#d1e3cd"><text x="25" y="211">int main() {</text><text x="40" y="234">cout &lt;&lt; "Olá, mundo!";</text><text x="40" y="257">return 0;</text><text x="25" y="278">}</text></g>
+<path d="M20 288h280" stroke="#d1e3cd" stroke-opacity=".5"/>
+<text x="20" y="305" font-family="Consolas,monospace" font-size="8" letter-spacing="1" fill="#d1e3cd">C++ / FUNDAMENTOS</text>
+</svg>
